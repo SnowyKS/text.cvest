@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 60%;
+    height: 100vh;
+    margin: auto;
+    cursor: pointer;
+}
+
+button{
+    cursor: pointer;
+    background-color: aqua;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+
+input{
+    outline: none;
+}
